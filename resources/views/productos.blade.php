@@ -21,7 +21,7 @@
                 <div class="panel panel-default">
                   <div class="panel-heading">
                     <h4 class="panel-title">
-                    <button class="btn btn-info" data-toggle="collapse" href="#{{$catalogo->nombre}}">Agregar</button>
+                    <button class="btn btn-info" data-toggle="collapse" href="#{{$catalogo->nombre}}">Agregar1</button>
                     </h4>
                   </div>
                 
